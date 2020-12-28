@@ -3,5 +3,5 @@ This is my first Machine Learning project as an exercise that uses a CNN to clas
 
 # Next Steps:
 - Try changing the architecture of the CNN to increase the Validation Accuracy of the model
-- Use different pre-built models from Tensorflow Hub and use tranfer learning to make the accuracy significantly higherl
+- Use different pre-built models from Tensorflow Hub and use tranfer learning to make the accuracy significantly higher
 
